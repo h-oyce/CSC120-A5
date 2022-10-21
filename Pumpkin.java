@@ -5,7 +5,7 @@
  * @version 13 October 2022
  */
 public class Pumpkin {
-    
+
     /*
      * Prints ASCII art depicting a jack-o'-lantern to the console
      */
@@ -19,10 +19,10 @@ public class Pumpkin {
         System.out.println("    ;   |\\           /|  ;");
         System.out.println("    ;   | ''--...--'' |  ;");
         System.out.println("     \\  ''---.....--''  /");
-        System.out.println("     ''*-.,_______,.-*'  ");  
+        System.out.println("     ''*-.,_______,.-*'  ");
 
     }
-    
+
     /* main method (for testing) */
     public static void main(String[] args) {
         Pumpkin myPumpkin = new Pumpkin();
